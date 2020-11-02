@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+    <string name="pnombreMascota"></string>
+    <string name="pcantidadRaiting">0</string>
+
+    <string name="menu_acerca">Acerca de</string>
+    <string name="menu_contacto">Contacto</string>
+
+    <string name="hint_nombreContacto">Nombre Contacto</string>
+
+    <string name="hint_Desde">De</string>
+    <string name="hint_CorreoPara">Para</string>
+    <string name="hint_mensaje">Mensaje</string>
+
+    <string name="texto_envio">Enviar</string>
+
+
+    <string name="texto_acercade">ACERCA DE</string>
+
+    <string name="texto_nombre">NOMBRE: PABLO MADERA</string>
+
+    <string name="texto_curso">CURSO: DESARROLLO DE APLICACIONES ANDROID AÑO 2020</string>
+
+    <string name="texto_semana">SEMANA 4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="600dp"
+    >
+
+    <ImageView
+        android:id="@+id/imgFotoPerfilPrincipal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/luna"
+        android:scaleType="center"/>
+
+    <TextView
+        android:id="@+id/tvNombreMascotaPerfilPrincipal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pnombreMascota"
+        android:padding="@dimen/activity_horizontal_margin"
+        android:textSize="12dp"
+        android:textStyle="bold"
+        android:gravity="center_horizontal" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvMascotasPerfil"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:padding="@dimen/activity_horizontal_margin"
+        android:layout_below="@id/imgFotoPerfilPrincipal"
+        />
+
+</LinearLayout>

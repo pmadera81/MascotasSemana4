@@ -1,0 +1,4 @@
+#Sun Nov 01 23:35:09 UYT 2020
+base.0=C\:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

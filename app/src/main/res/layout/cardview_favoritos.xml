@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView   xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:id="@+id/cvFavoritos"
+    android:layout_marginBottom="@dimen/activity_horizontal_margin"
+    android:layout_marginTop="@dimen/activity_horizontal_margin"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/alto_foto"
+            android:id="@+id/imgFotoFavoritos"
+            android:layout_gravity="center_horizontal"
+            android:src="@drawable/mico"/>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/activity_horizontal_margin">
+
+            <ImageButton
+                android:id="@+id/btnRaitearCVFavoritos"
+                android:layout_width="@dimen/ancho_hueso_blanco"
+                android:layout_height="@dimen/alto_hueso_blanco"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="@drawable/hueso_blanco"
+                />
+
+            <TextView
+                android:id="@+id/tvNombreMascotaFavorito"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/pnombreMascota"
+                android:padding="@dimen/activity_horizontal_margin"
+                android:textSize="25dp"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/tvCantidadRaitingCVFavoritos"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:text="@string/pcantidadRaiting"
+                android:padding="@dimen/activity_horizontal_margin"
+                android:layout_marginLeft="60dp"
+                android:textSize="12dp"
+                android:textStyle="bold"/>
+
+
+            <ImageButton
+                android:id="@+id/btnCantRaitingCVFavoritos"
+                android:layout_width="@dimen/ancho_hueso_amarillo"
+                android:layout_height="@dimen/alto_hueso_amarillo"
+                android:layout_marginTop="@dimen/activity_vertical_margin"
+                android:background="@drawable/hueso_amarillo"
+                />
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView >

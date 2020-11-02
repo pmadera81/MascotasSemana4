@@ -1,0 +1,446 @@
+[
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_toby.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xxhdpi\\toby.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_acerca.xml.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\layout\\activity_acerca.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_nico.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xhdpi\\nico.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_hueso_blanco.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-mdpi\\hueso_blanco.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_perfil.xml.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\layout\\fragment_perfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_simba.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xhdpi\\simba.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_rocky.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-mdpi\\rocky.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_nico.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-mdpi\\nico.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_estrella.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xxhdpi\\estrella.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-hdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_rocky.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xhdpi\\rocky.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_hueso_blanco.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xxxhdpi\\hueso_blanco.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_bimba.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xxxhdpi\\bimba.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_hueso_amarillo.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xxhdpi\\hueso_amarillo.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_simba.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-mdpi\\simba.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_chiqui.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xxxhdpi\\chiqui.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_nico.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xxxhdpi\\nico.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_luna.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xxxhdpi\\luna.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_estrella.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-mdpi\\estrella.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_coco.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-hdpi\\coco.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hueso_blanco.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-hdpi\\hueso_blanco.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_huella.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xhdpi\\huella.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_favoritos.xml.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\layout\\activity_favoritos.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xxhdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\layout_cardview_mascotas.xml.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\layout\\cardview_mascotas.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_perro.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-mdpi\\perro.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_coco.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xxxhdpi\\coco.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_coco.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xxhdpi\\coco.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_luna.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-mdpi\\luna.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_luna.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xhdpi\\luna.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_hueso_blanco.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xhdpi\\hueso_blanco.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_chico.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-mdpi\\chico.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_luna.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-hdpi\\luna.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_huella.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-mdpi\\huella.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rocky.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-hdpi\\rocky.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_mico.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xxhdpi\\mico.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chico.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-hdpi\\chico.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_huella.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xxxhdpi\\huella.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_estrella.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xxxhdpi\\estrella.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_perro.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-hdpi\\perro.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_hueso_amarillo.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xxxhdpi\\hueso_amarillo.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_rocky.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xxhdpi\\rocky.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_nico.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-hdpi\\nico.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_toby.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xxxhdpi\\toby.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_chiqui.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-mdpi\\chiqui.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_hueso_blanco.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xxhdpi\\hueso_blanco.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_home.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-mdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_hueso_amarillo.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-mdpi\\hueso_amarillo.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_chiqui.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xxhdpi\\chiqui.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_chiqui.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xhdpi\\chiqui.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\layout_actionbar.xml.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\layout\\actionbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_favoritos.xml.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\layout\\fragment_favoritos.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_simba.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-hdpi\\simba.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bimba.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-mdpi\\bimba.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_toby.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xhdpi\\toby.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_coco.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xhdpi\\coco.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_mico.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xxxhdpi\\mico.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_coco.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-mdpi\\coco.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_rocky.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xxxhdpi\\rocky.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xhdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bimba.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-hdpi\\bimba.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bimba.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xhdpi\\bimba.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_luna.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xxhdpi\\luna.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\layout_cardview_favoritos.xml.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\layout\\cardview_favoritos.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_estrella.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xhdpi\\estrella.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\layout_cardview_perfil.xml.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\layout\\cardview_perfil.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_hueso_amarillo.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-hdpi\\hueso_amarillo.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mico.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-hdpi\\mico.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_huella.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xxhdpi\\huella.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_chico.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xxxhdpi\\chico.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_perro.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xxxhdpi\\perro.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_chico.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xxhdpi\\chico.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_mico.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xhdpi\\mico.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mico.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-mdpi\\mico.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_perro.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xxhdpi\\perro.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_home.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xxxhdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_chico.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xhdpi\\chico.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_huella.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-hdpi\\huella.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bimba.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xxhdpi\\bimba.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_simba.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xxxhdpi\\simba.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_nico.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xxhdpi\\nico.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_toby.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-mdpi\\toby.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_toby.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-hdpi\\toby.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_perro.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xhdpi\\perro.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_contacto.xml.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\layout\\activity_contacto.xml"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chiqui.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-hdpi\\chiqui.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_estrella.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-hdpi\\estrella.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_simba.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xxhdpi\\simba.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_hueso_amarillo.png.flat",
+        "source": "C:\\Users\\pmade\\Documents\\INEFOP\\CURSO 3 Desarrollo de aplicaciones con Android\\SEMANA 4\\EJERCICIOS\\Mascotas\\app\\src\\main\\res\\drawable-xhdpi\\hueso_amarillo.png"
+    }
+]
